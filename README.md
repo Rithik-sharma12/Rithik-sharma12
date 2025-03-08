@@ -5,6 +5,12 @@
 
 <h5 align="center" style="color : #4dff88 ; font-family: serif;">I’m an engineering student specializing in cybersecurity, with a strong focus on offensive security and Red Team practices. Passionate about identifying vulnerabilities, securing networks, and constantly improving my skills through real-world challenges and CTF (Capture the Flag) competitions</h4>
 
+![Your GIF Description](https://images.app.goo.gl/mkH9Kw6jA3NMtXHW6)
+
+## About Me
+
+## About Me
+
 # **💫 About Me:**
 - **🎓 Education: BE in Cybersecurity (Graduating in 2027)<br>- 💻 Interests: Offensive Security, Ethical Hacking, and Penetration Testing<br>- 🌐 Skills: <br>  - Computer Networking: Mastering the foundations of connectivity<br>  - Kali Linux: Exploring the ultimate penetration testing OS<br>  - Security Concepts: Familiar with core principles like CIA Triad, firewalls, IDS/IPS, and more<br><br>- 🎯 Goal: To become a skilled offensive security engineer and solve real-world cybersecurity challenges.**
 
