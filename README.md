@@ -5,7 +5,10 @@
 
 <h5 align="center" style="color : #4dff88 ; font-family: serif;">I’m an engineering student specializing in cybersecurity, with a strong focus on offensive security and Red Team practices. Passionate about identifying vulnerabilities, securing networks, and constantly improving my skills through real-world challenges and CTF (Capture the Flag) competitions</h4>
 
-![Your GIF Description](https://images.app.goo.gl/mkH9Kw6jA3NMtXHW6)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/07e5c990-715b-4f78-ade1-0be63ae88b1b" style="width: 100%; height: auto;" />
+</div>
 
 ## About Me
 
