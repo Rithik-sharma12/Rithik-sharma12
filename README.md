@@ -10,8 +10,6 @@
   <img src="https://github.com/user-attachments/assets/07e5c990-715b-4f78-ade1-0be63ae88b1b" style="width: 100%; height: auto;" />
 </div>
 
-## About Me
-
 # **💫 About Me:**
 - **🎓 Education: BE in Cybersecurity (Graduating in 2027)<br>- 💻 Interests: Offensive Security, Ethical Hacking, and Penetration Testing<br>- 🌐 Skills: <br>  - Computer Networking: Mastering the foundations of connectivity<br>  - Kali Linux: Exploring the ultimate penetration testing OS<br>  - Security Concepts: Familiar with core principles like CIA Triad, firewalls, IDS/IPS, and more<br><br>- 🎯 Goal: To become a skilled offensive security engineer and solve real-world cybersecurity challenges.**
 
