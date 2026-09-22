@@ -1,21 +1,47 @@
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Rithik Sharma A — offensive security and IoT security. Final-year B.E. Cyber Security, KCG College of Technology, Chennai. Open to trainee security engineer roles." />
+</p>
 
+<p align="center">
+  <a href="https://rithiksharma.me"><img src="./assets/link-portfolio.svg" width="32%" alt="Portfolio: rithiksharma.me" /></a>
+  <a href="https://linkedin.com/in/rithiksharma19"><img src="./assets/link-linkedin.svg" width="32%" alt="LinkedIn: rithiksharma19" /></a>
+  <a href="mailto:a.rithiksharma@gmail.com"><img src="./assets/link-email.svg" width="32%" alt="Email: a.rithiksharma@gmail.com" /></a>
+</p>
 
-<h1 align="center" style="color : #e60000 ; font-family: Courier New"><b>Hi 👋, I'm Rithik Sharma</b></h1>
-<h4 align="center" style="color : #0066ff ; font-family : Copperplate;">Cybersecurity Engineering Student | Red Team Enthusiast | Penetration Testing | Ethical Hacking </h3>
+<p align="center">
+  <img src="./assets/arsenal.svg" width="100%" alt="Tools and languages: Nmap, Wireshark, Nessus, Burp Suite, OWASP ZAP, Metasploit, OWASP Top 10, Python, C, Java, Bash, JavaScript, TypeScript, SQL, Linux, Git, Google Cloud, Azure, Cisco networking." />
+</p>
 
-<h5 align="center" style="color : #4dff88 ; font-family: serif;">I’m an engineering student specializing in cybersecurity, with a strong focus on offensive security and Red Team practices. Passionate about identifying vulnerabilities, securing networks, and constantly improving my skills through real-world challenges and CTF (Capture the Flag) competitions</h4>
+<p align="center">
+  <a href="https://github.com/Rithik-sharma12/Secure_OTA_Update_Security_Mechanism"><img src="./assets/proj-sentinelota.svg" width="100%" alt="SentinelOTA: secure over-the-air firmware updates for ESP32, ESP8266, ATmega328P and STM32 with signed, encrypted packages and anti-rollback checks." /></a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Rithik-sharma12/ShredX"><img src="./assets/proj-shredx.svg" width="49%" alt="ShredX: NIST SP 800-88 aligned data sanitisation, team project." /></a>
+  <a href="https://rithiksharma.pythonanywhere.com"><img src="./assets/proj-stego.svg" width="49%" alt="Steganography app: AES-encrypted messages hidden in images. Opens the live demo." /></a>
+</p>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/07e5c990-715b-4f78-ade1-0be63ae88b1b" style="width: 100%; height: auto;" />
-</div>
+<p align="center">
+  <a href="https://github.com/Rithik-sharma12/CyberFest26"><img src="./assets/proj-cyberfest.svg" width="49%" alt="CyberFest'26: event registration platform." /></a>
+  <a href="https://github.com/Rithik-sharma12/KCG_ERP"><img src="./assets/proj-kcgerp.svg" width="49%" alt="KCG ERP: department ERP, in progress." /></a>
+</p>
 
-# **💫 About Me:**
-- **🎓 Education: BE in Cybersecurity (Graduating in 2027)<br>- 💻 Interests: Offensive Security, Ethical Hacking, and Penetration Testing<br>- 🌐 Skills: <br>  - Computer Networking: Mastering the foundations of connectivity<br>  - Kali Linux: Exploring the ultimate penetration testing OS<br>  - Security Concepts: Familiar with core principles like CIA Triad, firewalls, IDS/IPS, and more<br><br>- 🎯 Goal: To become a skilled offensive security engineer and solve real-world cybersecurity challenges.**
+<p align="center">
+  <img src="./assets/log.svg" width="100%" alt="Experience: AI-Azure intern, Microsoft program via Edunet Foundation, 2025; Cyber Security intern, Edunet Foundation, 2025. Seven certifications including Cisco CCNA, Google Cloud ACE and VAPT." />
+</p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rithik-sharma12&show_icons=true&border_radius=14&bg_color=0D1311&border_color=1C2622&title_color=3DFF8F&icon_color=3DFF8F&text_color=D8E6DE&ring_color=3DFF8F&custom_title=~/stats" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik-sharma12&layout=compact&border_radius=14&bg_color=0D1311&border_color=1C2622&title_color=3DFF8F&text_color=D8E6DE&langs_count=6&custom_title=~/languages" alt="Most used languages" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithik_sharma.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithiksharma19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.rithiksharma@gmail.com) 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithik-sharma12/Rithik-sharma12/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Rithik-sharma12/Rithik-sharma12/output/github-snake.svg" width="100%" alt="Contribution graph animation" />
+  </picture>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="All testing is performed only on systems I own or have explicit written permission to test." />
+</p>
